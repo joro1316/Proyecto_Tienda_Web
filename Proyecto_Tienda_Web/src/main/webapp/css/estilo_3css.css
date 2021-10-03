@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+canvas{border:1px solid;}
+
+body{
+	margin:0;
+	padding:0;
+	background:url(../img/meat-n-carne.jpg) no-repeat center top;
+	background-size: cover;
+	font-family: sams-serif;
+	height:100vh;
+}
